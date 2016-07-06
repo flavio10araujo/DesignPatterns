@@ -1,4 +1,4 @@
-package com.tests.designPatterns.command;
+package com.tests.designPatterns.command.example01;
 
 //ConcreteCommand Class.
 public class SellStockOrder implements Order { 

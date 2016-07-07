@@ -19,7 +19,7 @@ public class Robot {
 
 	public void move() {
 		System.out.println(this.name + ": Based on current position the behaviour object decide the next move:");
-		int command = behaviour.moveCommand();
+		behaviour.moveCommand();
 		// ... send the command to mechanisms
 		System.out.println("\tThe result returned by behaviour object is sent to the movement mechanisms for the robot '"  + this.name + "'");
 	}

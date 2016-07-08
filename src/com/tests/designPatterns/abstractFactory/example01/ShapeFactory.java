@@ -1,4 +1,4 @@
-package com.tests.designPatterns.abstractFactory;
+package com.tests.designPatterns.abstractFactory.example01;
 
 public class ShapeFactory extends AbstractFactory {
 

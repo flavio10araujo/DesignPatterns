@@ -1,6 +1,7 @@
-package com.tests.designPatterns.facade;
+package com.tests.designPatterns.facade.example01;
 
 public class ShapeMaker {
+
 	private Shape circle;
 	private Shape rectangle;
 	private Shape square;

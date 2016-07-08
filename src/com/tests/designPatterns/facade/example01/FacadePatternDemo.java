@@ -1,4 +1,4 @@
-package com.tests.designPatterns.facade;
+package com.tests.designPatterns.facade.example01;
 
 public class FacadePatternDemo {
 	public static void main(String[] args) {

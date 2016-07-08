@@ -1,4 +1,4 @@
-package com.tests.designPatterns.mvc;
+package com.tests.designPatterns.mvc.example01;
 
 public class StudentView {
 	public void printStudentDetails(String studentName, String studentRollNo){

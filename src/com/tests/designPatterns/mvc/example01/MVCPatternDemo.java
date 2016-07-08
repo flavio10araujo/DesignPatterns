@@ -1,4 +1,4 @@
-package com.tests.designPatterns.mvc;
+package com.tests.designPatterns.mvc.example01;
 
 public class MVCPatternDemo {
 	public static void main(String[] args) {

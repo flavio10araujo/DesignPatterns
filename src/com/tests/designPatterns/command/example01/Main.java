@@ -1,7 +1,7 @@
 package com.tests.designPatterns.command.example01;
 
 //Client
-public class Client {
+public class Main {
 	public static void main(String[] args) {
 		StockTrade stock = new StockTrade();
 		BuyStockOrder bsc = new BuyStockOrder(stock);

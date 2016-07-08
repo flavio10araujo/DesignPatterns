@@ -1,4 +1,4 @@
-package com.tests.designPatterns.decorator;
+package com.tests.designPatterns.decorator.example01;
 
 public class RedShapeDecorator extends ShapeDecorator {
 

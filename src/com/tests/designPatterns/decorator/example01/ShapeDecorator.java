@@ -1,4 +1,4 @@
-package com.tests.designPatterns.decorator;
+package com.tests.designPatterns.decorator.example01;
 
 public abstract class ShapeDecorator implements Shape {
 	protected Shape decoratedShape;

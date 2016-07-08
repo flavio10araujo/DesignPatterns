@@ -1,4 +1,4 @@
-package com.tests.designPatterns.factory;
+package com.tests.designPatterns.factory.example01;
 
 public class Rectangle implements Shape {
 

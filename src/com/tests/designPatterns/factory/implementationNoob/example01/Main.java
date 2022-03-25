@@ -1,4 +1,4 @@
-package com.tests.designPatterns.factory.example01;
+package com.tests.designPatterns.factory.implementationNoob.example01;
 
 /**
  * This implementation is the most simple and intuitive (let's call it the noob implementation).

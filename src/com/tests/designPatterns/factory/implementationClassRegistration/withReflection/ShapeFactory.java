@@ -8,17 +8,17 @@ import java.util.Map;
 public class ShapeFactory {
 
 	@SuppressWarnings("rawtypes")
-	private Map<String, Class> registeredProductsMap = new HashMap<>();
+	private Map<String, Class> registeredShapesMap = new HashMap<>();
 	
 	public void registerShape(String shapeID, @SuppressWarnings("rawtypes") Class class1) {
-		registeredProductsMap.put(shapeID, class1);
+		registeredShapesMap.put(shapeID, class1);
 	}
 	
 	@SuppressWarnings("unchecked")
 	public Shape getShape(String shapeID)  {
 		try {
 			@SuppressWarnings("rawtypes")
-			Class shape = (Class) registeredProductsMap.get(shapeID);
+			Class shape = (Class) registeredShapesMap.get(shapeID);
 			
 			@SuppressWarnings("rawtypes")
 			Constructor constructor = shape.getConstructor();

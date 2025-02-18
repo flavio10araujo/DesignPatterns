@@ -1,6 +1,6 @@
 package com.tests.designPatterns.gof.behaviour.command.example02;
 
-public class CommandPatternDemo {
+public class Main {
 	public static void main(String[] args) {
 		Stock abcStock = new Stock();
 

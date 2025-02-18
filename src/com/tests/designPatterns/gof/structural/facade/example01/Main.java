@@ -1,6 +1,6 @@
 package com.tests.designPatterns.gof.structural.facade.example01;
 
-public class FacadePatternDemo {
+public class Main {
 	public static void main(String[] args) {
 		ShapeMaker shapeMaker = new ShapeMaker();
 

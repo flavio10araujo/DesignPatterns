@@ -1,6 +1,6 @@
 package com.tests.designPatterns.gof.creational.abstractFactory.example01;
 
-public class AbstractFactoryPatternDemo {
+public class Main {
 	public static void main(String[] args) {
 
 		//get shape factory

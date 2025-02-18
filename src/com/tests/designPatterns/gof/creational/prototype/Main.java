@@ -1,6 +1,6 @@
 package com.tests.designPatterns.gof.creational.prototype;
 
-public class PrototypePatternDemo {
+public class Main {
 	public static void main(String[] args) {
 		ShapeCache.loadCache();
 

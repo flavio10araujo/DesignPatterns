@@ -1,4 +1,4 @@
-package com.tests.designPatterns.gof.behaviour.state;
+package com.tests.designPatterns.gof.behaviour.state.example01;
 
 public class StartState implements State {
 

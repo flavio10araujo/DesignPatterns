@@ -1,6 +1,6 @@
-package com.tests.designPatterns.gof.behaviour.state;
+package com.tests.designPatterns.gof.behaviour.state.example01;
 
-public class StatePatternDemo {
+public class Main {
 	public static void main(String[] args) {
 		Context context = new Context();
 

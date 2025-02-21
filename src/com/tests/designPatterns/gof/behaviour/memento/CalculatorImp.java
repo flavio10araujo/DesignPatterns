@@ -22,8 +22,8 @@ public class CalculatorImp implements Calculator {
 
 	@Override
 	public void restorePreviousCalculation(PreviousCalculationToCareTaker memento) {
-		this.firstNumber = ((PreviousCalculationToOriginator)memento).getFirstNumber();
-		this.secondNumber = ((PreviousCalculationToOriginator)memento).getSecondNumber();
+		this.firstNumber = ((PreviousCalculationToOriginator) memento).getFirstNumber();
+		this.secondNumber = ((PreviousCalculationToOriginator) memento).getSecondNumber();
 	}
 
 	@Override

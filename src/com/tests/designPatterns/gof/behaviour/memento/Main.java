@@ -3,7 +3,7 @@ package com.tests.designPatterns.gof.behaviour.memento;
 /**
  * CareTaker object
  */
-public class CalculatorDriver {
+public class Main {
 
 	public static void main(String[] args) {
 

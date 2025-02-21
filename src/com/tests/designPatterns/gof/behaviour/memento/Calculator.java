@@ -4,15 +4,14 @@ package com.tests.designPatterns.gof.behaviour.memento;
  * Originator Interface
  */
 public interface Calculator {
-
 	// Create Memento
-	public PreviousCalculationToCareTaker backupLastCalculation();
+	PreviousCalculationToCareTaker backupLastCalculation();
 
 	// setMemento
-	public void restorePreviousCalculation(PreviousCalculationToCareTaker memento);
+	void restorePreviousCalculation(PreviousCalculationToCareTaker memento);
 
 	// Actual Services Provided by the originator
-	public int getCalculationResult();
-	public void setFirstNumber(int firstNumber);
-	public void setSecondNumber(int secondNumber);
+	int getCalculationResult();
+	void setFirstNumber(int firstNumber);
+	void setSecondNumber(int secondNumber);
 }

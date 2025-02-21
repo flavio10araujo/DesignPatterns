@@ -1,4 +1,4 @@
-package com.tests.designPatterns.gof.behaviour.observer;
+package com.tests.designPatterns.gof.behaviour.observer.example01;
 
 //Represents each Observer that is monitoring changes in the subject.
 public class StockObserver implements Observer {

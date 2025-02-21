@@ -1,4 +1,4 @@
-package com.tests.designPatterns.gof.behaviour.observer;
+package com.tests.designPatterns.gof.behaviour.observer.example01;
 
 //This interface handles adding, deleting and updating all observers.
 public interface Subject {

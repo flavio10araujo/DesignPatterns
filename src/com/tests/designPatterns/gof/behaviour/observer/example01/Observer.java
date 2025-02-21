@@ -1,4 +1,4 @@
-package com.tests.designPatterns.gof.behaviour.observer;
+package com.tests.designPatterns.gof.behaviour.observer.example01;
 
 //The Observers update method is called when the Subject changes.
 public interface Observer {

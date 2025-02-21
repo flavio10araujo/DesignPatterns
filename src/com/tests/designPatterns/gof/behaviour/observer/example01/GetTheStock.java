@@ -1,4 +1,4 @@
-package com.tests.designPatterns.gof.behaviour.observer;
+package com.tests.designPatterns.gof.behaviour.observer.example01;
 
 import java.text.DecimalFormat;
 

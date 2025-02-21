@@ -1,4 +1,4 @@
-package com.tests.designPatterns.gof.behaviour.visitor;
+package com.tests.designPatterns.gof.behaviour.visitor.example01;
 
 import java.util.ArrayList;
 import java.util.Iterator;
